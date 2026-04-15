@@ -4,6 +4,7 @@ Package Report
 Document:
 Name:  Pickle-ween.ai
 Color Mode: RGB color
+Color Mode: CMYK 
 Color Profile: sRGB IEC61966-2.1
 Ruler Units: pixels
 Artboard Dimensions: 1080 px x 1080 px
@@ -11,7 +12,7 @@ Show Images in Outline Mode: OFF
 Highlight Substituted Fonts: OFF
 Highlight Substituted Glyphs: OFF
 Preserve Text Editability
-Simulate Colored Paper: OFF
+Simulate Colored Paper: YES
 
 -----------------------------------------------------------------------------
 Spot Color Objects:
@@ -54,7 +55,7 @@ Resolution: 162.434 by 166.6 pixels per inch
 Type: Transparent RGB
 Bits per Pixel: 32
 Channels: 4
-Size: 3262K, 1200 by 696 pixels
+Size: 3262K, 1200 by 800 pixels
 Dimensions: 1221.215 by 708.305 points 
 Resolution: 70.749 by 70.749 pixels per inch
 
